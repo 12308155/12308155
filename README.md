@@ -129,6 +129,31 @@
 </p>
 
 ---
+## 📊 GitHub Insights (Infographic Style)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12308155&theme=tokyonight" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=12308155&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=12308155&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=12308155&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=12308155&theme=tokyonight&utcOffset=5.5" width="48%" />
+</p>
+
+---
+
+## 🔥 Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=12308155&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+---
 
 ## 🐍 Contribution Snake
 
