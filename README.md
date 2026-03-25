@@ -1,158 +1,175 @@
-## Hi there 👋
-# 🚀 Sitaram Manepalli
+<!-- 🔥 CUSTOM BANNER -->
 
-💻 Software Engineer | 📊 Data Enthusiast | 🤖 AI Explorer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sitaram%20Manepalli&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- 🔥 TYPING ANIMATION -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Software+Engineer;Data+Scientist+in+Progress;AI+%26+ML+Explorer;Building+Real-World+Solutions" />
+</p>
 
 ---
 
-## 🌟 About Me
+## 🌌 About Me
 
-I am a passionate Computer Science student focused on building **intelligent systems, scalable applications, and data-driven solutions**.
-
-I enjoy solving real-world problems using **Machine Learning, Data Engineering, and Software Development**.
-Always curious. Always building. 🚀
+💻 Software Engineer passionate about **AI, Data Science & Scalable Systems**
+📊 Turning complex data into **intelligent insights**
+🚀 Focused on building **real-world impactful solutions**
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 **Live:** https://12308155.github.io/Sitaram_Portfolio_/
+🔗 https://12308155.github.io/Sitaram_Portfolio_/
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Skill Architecture
 
-### 🔹 Data Science & AI
+### 🔷 Data Science
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
 
-### 🔹 Software & Engineering
+Machine Learning • Scikit-learn • SQL • Data Analytics
+Visualization • EDA • Statistics • Generative AI / LLMs
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-000000?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-FF5733?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+---
 
-### 🔹 Tools & Ecosystem
+### ⚙️ Engineering
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode)
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,docker,linux" />
+</p>
+
+DSA • OOP • REST APIs • Web Development • Cloud Basics
+
+---
+
+### 🌐 Ecosystem
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+Jupyter • Power BI • Excel • API Integration
+
+---
+
+## 🚀 Featured Projects (Story Mode 🔥)
+
+### 🌍 ClimateScope — *Decoding Climate Patterns*
+
+🌡️ Analyzed real-world climate datasets
+📊 Built dashboards for extreme weather trends
+⚡ Impact: Better understanding of environmental risks
+
+---
+
+### 📊 Customer Churn — *Preventing Revenue Loss*
+
+👥 Processed **243K+ records**
+📉 Found **18% churn risk**
+💡 Delivered business insights via Power BI
+
+---
+
+### 🤖 ML Churn Prediction — *AI in Action*
+
+🧠 Built predictive model using real datasets
+📈 Improved decision-making with ML
+
+---
+
+### 💄 AI Chatbot — *Smart Recommendation Engine*
+
+🤖 Personalized suggestions using APIs
+🌐 Built with Web + AI integration
 
 ---
 
 ## 💼 Experience
 
-### 📊 Data Analytics Intern — Infosys Springboard *(Ongoing)*
-
-* Working on **ClimateScope project**
-* Analyzing large-scale climate datasets
-* Detecting temperature anomalies
-* Building data pipelines & visualizations
-
-### 🧠 Data Science Intern — Skill Dzire
-
-* Built ML models using Scikit-learn & TensorFlow
-* Developed data pipelines (batch & streaming)
-* Created dashboards for insights
-
----
-
-## 🚀 Projects
-
-### 🌍 ClimateScope Dashboard
-
-* Global weather analytics system
-* Focus on extreme events & trends
-* Built using data visualization
-
-### 📊 Customer Churn Dashboard
-
-* Analyzed **243K+ users**
-* Identified **18% churn rate**
-* Tools: Power BI
-
-### 🤖 Predictive Churn Model
-
-* ML model to forecast customer churn
-* Built with Python & Scikit-learn
-
-### 💄 AI Chatbot (Makeup Assistant)
-
-* Personalized recommendations
-* Built using HTML, JS + APIs
+📊 Infosys Springboard — Data Analytics Intern *(Ongoing)*
+🧠 Skill Dzire — Data Science Intern
 
 ---
 
 ## 🎓 Education
 
-🎓 B.Tech (CSE) — Lovely Professional University *(2023–2027)*
-📘 Intermediate (MPC) — 95.6%
+🎓 B.Tech (CSE) — LPU *(2023–2027)*
+📘 Intermediate — 95.6%
 🏫 SSC — CGPA 9.1
 
 ---
 
 ## 🏆 Certifications
 
-* Deep Learning — IIT Ropar (NPTEL)
-* Deloitte Data Analytics Simulation
-* Generative AI — Udemy
-* Google IT Support — Coursera
+✔️ Deep Learning — IIT Ropar
+✔️ Deloitte Analytics
+✔️ Generative AI
+✔️ Google IT Support
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Power Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=12308155\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=12308155\&layout=compact\&theme=tokyonight)
-
----
-
-## ⚡ What Makes Me Different
-
-✔️ Strong mix of **Data + Engineering**
-✔️ Real-world project experience
-✔️ Focus on impact, not just code
-✔️ Continuous learner mindset
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=12308155&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12308155&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
-## 📬 Connect With Me
+## 🔥 Contribution Snake
 
-* 🌐 Portfolio: https://12308155.github.io/Sitaram_Portfolio_/
-* 💼 LinkedIn: (Add your link)
-* 📧 Email: (Add your email)
-
----
-
-## 🔥 Current Focus
-
-* Machine Learning & AI
-* Data Engineering
-* Building scalable systems
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-⭐ *“Turning Data into Intelligent Solutions”*
+## 👀 Profile Views
 
-<!--
-**12308155/12308155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=12308155&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Philosophy
+
+✔️ Build > Learn > Improve
+✔️ Data → Insights → Impact
+✔️ Consistency beats talent
+
+---
+
+## 📬 Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/sitaram-manepalli/
+📧 Email: saisitaram49@gmail.com
+🌐 Portfolio: https://12308155.github.io/Sitaram_Portfolio_/
+
+---
+
+## 🔥 Current Mission
+
+🚀 Mastering AI & Data Engineering
+📊 Building scalable intelligent systems
+🤖 Creating impactful tech solutions
+
+---
+
+<p align="center">
+  ⭐ <b>"From Data to Intelligence — That’s My Signature."</b>
+</p>
+
+<!-- 🔥 FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
