@@ -23,15 +23,11 @@
   <img src="https://img.shields.io/badge/🚀%20Projects-8+-green?style=for-the-badge" />
 </p>
 
----
-
 <!-- 🔥 SHORT TAGLINE -->
 
 <p align="center">
   <b>🚀 Building Intelligent Systems | 📊 Data → Insights → Impact</b>
 </p>
-
----
 
 <!-- 🔥 SOCIAL LINKS -->
 
