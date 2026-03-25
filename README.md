@@ -1,8 +1,53 @@
 <!-- 🔥 BANNER -->
 
+<!-- 🔥 PREMIUM BANNER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sitaram%20Manepalli&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Sitaram%20Manepalli&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
+
+<!-- 🔥 TYPING INTRO -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%7C+Data+Science+%7C+ML;Building+Real-World+Projects;Turning+Data+into+Insights" />
+</p>
+
+---
+
+<!-- 🔥 QUICK INFO CARDS -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓%20B.Tech%20CSE-LPU-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻%20Role-Software%20Engineer-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊%20Focus-Data%20%26%20AI-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀%20Projects-8+-green?style=for-the-badge" />
+</p>
+
+---
+
+<!-- 🔥 SHORT TAGLINE -->
+
+<p align="center">
+  <b>🚀 Building Intelligent Systems | 📊 Data → Insights → Impact</b>
+</p>
+
+---
+
+<!-- 🔥 SOCIAL LINKS -->
+
+<p align="center">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://12308155.github.io/Sitaram_Portfolio_/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
 
 <!-- 🔥 TYPING -->
 
